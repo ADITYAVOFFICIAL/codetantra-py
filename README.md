@@ -1,4 +1,4 @@
-# codetantra-py
+# CodeTantra Python
 THIS CONTAINS ALL CODETANTRA PYTHON ANSWERS
 <head>
   <link href="https://fonts.googleapis.com/css2?family=Carter+One&display=swap" rel="stylesheet"></head>
