@@ -13,8 +13,8 @@ THIS CONTAINS ALL CODETANTRA PYTHON ANSWERS
   <img src = "https://github-readme-stats.vercel.app/api?username=ADITYAVOFFICIAL&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
 </p>
-<h2>Thank's to GitHub</h2>
- WELCOME TO THE SpaceInv WEBSITE  <br>
+<h2>Aditya Verma</h2>
+ALL ANSWERS ARE IN FOLDERS  <br>
 
 
 LINKEDIN = https://www.linkedin.com/in/aditya-verma-real/<br>
