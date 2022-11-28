@@ -1,14 +1,17 @@
-# DIVMOD.PY
-# a = int(input("Enter number-1: "))
-# b = int(input("Enter number-2: "))
-# div = a//b
-# qu = a % b
-# print(f"{a} // {b} = {div}\n{a} % {b} = {qu}")
+# Divmod.py
 
-#
-# rep = int(input())
-# word = input()
-# print(word*rep)
+a = int(input("Enter number-1: "))
+b = int(input("Enter number-2: "))
+div = a//b
+qu = a % b
+print(f"{a} // {b} = {div}\n{a} % {b} = {qu}")
+
+
+# Samplepg.py
+
+rep = int(input())
+word = input()
+print(word*rep)
 
 # arithmeticbit.py
 p = float(input())
