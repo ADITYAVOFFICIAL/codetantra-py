@@ -14,7 +14,7 @@ THIS CONTAINS ALL CODETANTRA PYTHON ANSWERS
 </p>
 <h2>Aditya Verma</h2>
 ALL ANSWERS ARE IN FOLDERS  <br><br><br><br>
-<h1> ALL CREDIT TO ADITYA VERMA
+<h1> ALL CREDIT TO ADITYA VERMA</h1><br>
 
 
 LINKEDIN = https://www.linkedin.com/in/aditya-verma-real/<br>
