@@ -1,4 +1,4 @@
-# Divmod.py
+# Divmod.py [1/6]
 
 a = int(input("Enter number-1: "))
 b = int(input("Enter number-2: "))
@@ -8,7 +8,7 @@ print(f"{a} // {b} = {div}\n{a} % {b} = {qu}")
 
 # -----------------------------------------------------------
 
-# Samplepg.py
+# Samplepg.py [2/6]
 
 rep = int(input())
 word = input()
@@ -28,7 +28,7 @@ else:
 
 # -----------------------------------------------------------
 
-# Areaofrect.py
+# Areaofrect.py [3/6]
 
 L = int(input("L:"))
 B = int(input("B:"))
@@ -36,7 +36,7 @@ print(L*B)
 
 # -----------------------------------------------------------
 
-# Conversions.py
+# Conversions.py [4/6]
 
 a = int(input("number: "))
 print(complex(a))
@@ -44,7 +44,7 @@ print(oct(a))
 
 # -----------------------------------------------------------
 
-# arithmeticbit.py
+# arithmeticbit.py [5/6]
 
 p = int(input())
 q = int(input())
@@ -59,7 +59,7 @@ else:
 
 # -----------------------------------------------------------
 
-# formatting.py
+# formatting.py [6/6]
 
 x = input("x:")
 y = input("y:")
