@@ -12,6 +12,7 @@ for number in range(a, b + 1):
         else:
             print(number)
 
+# -----------------------------------------------------------
 
 # armstrongNumber.py [2/8]
 
@@ -29,6 +30,7 @@ elif user_arm == 1634:
 else:
     print(f"The given number {user_arm} is not an armstrong number")
 
+# -----------------------------------------------------------
 
 #octalToDecimal.py [3/8]
 
@@ -47,6 +49,7 @@ while octnum != 0:
     octnum = int(octnum/10)
 print(f"Equivalent decimal number : {decnum}")
 
+# -----------------------------------------------------------
 
 # PalindromeNumbers.py [5/8]
 
@@ -56,6 +59,7 @@ if int(a) == int(a[::-1]):
 else:
     print(f"{a} is not a palindrome")
 
+# -----------------------------------------------------------
 
 #gcdofTwoNumbers.py [6/8]
 
@@ -64,6 +68,7 @@ sisk = int(input("Enter second number: "))
 kk = math.gcd(fisk, sisk)
 print(f"The gcd of two numbers is: {kk}")
 
+# -----------------------------------------------------------
 
 # factUsingRecursion.py [7/8]
 
@@ -71,6 +76,7 @@ kk = int(input("Enter a number: "))
 hmm = math.factorial(kk)
 print(f"The factorial of the given number is {hmm}")
 
+# -----------------------------------------------------------
 
 # leapYear.py [8/8]
 
@@ -79,3 +85,6 @@ if year % 4 == 0:
     print(f"{year} is a leap year")
 else:
     print(f"{year} is not a leap year")
+
+
+# END OF QUESTIONS 8/8
