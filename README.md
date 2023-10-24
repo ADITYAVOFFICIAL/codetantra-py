@@ -6,7 +6,7 @@ THIS CONTAINS ALL CODETANTRA PYTHON ANSWERS
 <a href="https://website.adityavermareal.repl.co/"><img src="https://img.shields.io/github/issues/ADITYAVOFFICIAL/codetantra-py" alt="Issues Badge"/></a>
 <a href="https://website.adityavermareal.repl.co/"><img src="https://img.shields.io/wordpress/plugin/r/child-theme-check.svg"></a>
 <a href="https://www.youtube.com/channel/UC9zfSBBnZniAOrek0xMqUAw" ><img src="https://img.shields.io/youtube/channel/views/UC9zfSBBnZniAOrek0xMqUAw?style=social" /> </a>
-<br>
+<br><br><br>
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ADITYAVOFFICIAL&theme=dark&hide_border=true" width = 400>
 </p>
